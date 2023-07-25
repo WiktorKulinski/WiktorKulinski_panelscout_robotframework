@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/WiktorKulinski_panelscout_robotframework.iml" filepath="$PROJECT_DIR$/.idea/WiktorKulinski_panelscout_robotframework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/robotframework_dareIT.iml" filepath="$PROJECT_DIR$/.idea/robotframework_dareIT.iml" />
     </modules>
   </component>
 </project>
